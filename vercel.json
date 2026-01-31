@@ -1,7 +1,6 @@
 {
   "name": "vines-farmstay",
   "version": "1.0.0",
-  "private": true,
   "buildCommand": "npm run build",
   "framework": "nextjs",
   "regions": ["sin1"]
